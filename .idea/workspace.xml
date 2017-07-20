@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68dfa017-6ebc-46b9-b0c4-3e8bd6f0a835" name="Default" comment="" />
+    <ignored path="Pensiune.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Pensiune" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="615">
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <folding>
+                <marker date="1499798140000" expanded="true" signature="52:86" placeholder="SELECT * FRO..clients..." />
+                <marker date="1499798140000" expanded="true" signature="52:94" placeholder="SELECT * FRO..clients..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stay_request.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stay_request.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1335" max-vertical-offset="2400">
+              <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+              <folding>
+                <marker date="1500223546000" expanded="true" signature="1362:1381" placeholder="SELECT * FRO..rooms..." />
+                <marker date="1500223546000" expanded="true" signature="1524:1662" placeholder="..." />
+                <marker date="1500223546000" expanded="true" signature="1830:1876" placeholder="..." />
+                <marker date="1500223546000" expanded="true" signature="1830:1937" placeholder="..." />
+                <marker date="1500223546000" expanded="true" signature="1830:1952" placeholder="..." />
+                <marker date="1500223546000" expanded="true" signature="1830:1999" placeholder="..." />
+                <marker date="1500223546000" expanded="true" signature="2139:2150" placeholder="SELECT * fro..." />
+                <marker date="1500223546000" expanded="true" signature="2139:2152" placeholder="SELECT * fro..." />
+                <marker date="1500223546000" expanded="true" signature="2139:2253" placeholder="SELECT * fro..stay_status..." />
+                <marker date="1500223546000" expanded="true" signature="3419:3588" placeholder="..." />
+                <marker date="1500223546000" expanded="true" signature="3636:3684" placeholder="UPDATE rooms..." />
+                <marker date="1500223546000" expanded="true" signature="3992:4135" placeholder="..." />
+                <marker date="1500223546000" expanded="true" signature="3992:4222" placeholder="..." />
+                <marker date="1500223546000" expanded="true" signature="3992:4313" placeholder="..." />
+                <marker date="1500223546000" expanded="true" signature="4401:4557" placeholder="..." />
+                <marker date="1500223546000" expanded="true" signature="4401:4644" placeholder="..." />
+                <marker date="1500223546000" expanded="true" signature="6166:6211" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StayRequestHandler.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/php/StayRequestHandler.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1065" max-vertical-offset="1155">
+              <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+              <folding>
+                <marker date="1500200082000" expanded="true" signature="602:644" placeholder="SELECT * FRO..clients..." />
+                <marker date="1500200082000" expanded="true" signature="893:968" placeholder="INSERT INTO ..." />
+                <marker date="1500200082000" expanded="true" signature="1080:1123" placeholder="SELECT id FR..CLIENTS..." />
+                <marker date="1500200082000" expanded="true" signature="1619:1662" placeholder="SELECT id FR..CLIENTS..." />
+                <marker date="1500200082000" expanded="true" signature="1970:2154" placeholder="INSERT INTO ..." />
+                <marker date="1500200082000" expanded="true" signature="2213:2261" placeholder="UPDATE rooms..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="payment.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/payment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="1620">
+              <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+              <folding>
+                <marker date="1500291968000" expanded="true" signature="651:695" placeholder="SELECT id FR..clients..." />
+                <marker date="1500291968000" expanded="true" signature="1001:1054" placeholder="SELECT * FRO..stay_status..." />
+                <marker date="1500291968000" expanded="true" signature="1245:1573" placeholder="..." />
+                <marker date="1500291968000" expanded="true" signature="1914:2242" placeholder="..." />
+                <marker date="1500291968000" expanded="true" signature="1914:2906" placeholder="..." />
+                <marker date="1500291968000" expanded="true" signature="2400:2744" placeholder="..." />
+                <marker date="1500291968000" expanded="true" signature="2465:2739" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaymentUpdateHandler.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/php/PaymentUpdateHandler.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="495">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding>
+                <marker date="1500291534000" expanded="true" signature="415:465" placeholder="UPDATE stay_..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mail.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.26020408" vertical-offset="387" max-vertical-offset="1020">
+              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+              <folding>
+                <marker date="1499181193000" expanded="true" signature="1036:1055" placeholder="SELECT * FRO..mails..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/assets/php/ConnectionController.php" />
+        <option value="$PROJECT_DIR$/upload.html" />
+        <option value="$PROJECT_DIR$/mail.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/assets/php/MailHandler.php" />
+        <option value="$PROJECT_DIR$/assets/js/script.js" />
+        <option value="$PROJECT_DIR$/stay_request.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/assets/php/DateVacancyUpdater.php" />
+        <option value="$PROJECT_DIR$/assets/php/PaymentHandler.php" />
+        <option value="$PROJECT_DIR$/assets/php/GetDatabaseHandler.php" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/assets/php/StayRequestHandler.php" />
+        <option value="$PROJECT_DIR$/stay_request.php" />
+        <option value="$PROJECT_DIR$/assets/php/PaymentUpdateHandler.php" />
+        <option value="$PROJECT_DIR$/payment.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pensiune" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pensiune" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pensiune" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pensiune" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pensiune" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pensiune" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pensiune" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pensiune" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pensiune" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="Settings.JavaScript" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="JavaScriptLanguageLevel" value="ES6" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/php" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68dfa017-6ebc-46b9-b0c4-3e8bd6f0a835" name="Default" comment="" />
+      <created>1499178541008</created>
+      <option name="number" value="Default" />
+      <updated>1499178541008</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="615">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <marker date="1499798140000" expanded="true" signature="52:86" placeholder="SELECT * FRO..clients..." />
+            <marker date="1499798140000" expanded="true" signature="52:94" placeholder="SELECT * FRO..clients..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stay_request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1335" max-vertical-offset="2400">
+          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding>
+            <marker date="1500223546000" expanded="true" signature="1362:1381" placeholder="SELECT * FRO..rooms..." />
+            <marker date="1500223546000" expanded="true" signature="1524:1662" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1876" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1937" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1952" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1999" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2150" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2152" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2253" placeholder="SELECT * fro..stay_status..." />
+            <marker date="1500223546000" expanded="true" signature="3419:3588" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3636:3684" placeholder="UPDATE rooms..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4135" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4222" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4313" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4557" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4644" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="6166:6211" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/StayRequestHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1065" max-vertical-offset="1155">
+          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+          <folding>
+            <marker date="1500200082000" expanded="true" signature="602:644" placeholder="SELECT * FRO..clients..." />
+            <marker date="1500200082000" expanded="true" signature="893:968" placeholder="INSERT INTO ..." />
+            <marker date="1500200082000" expanded="true" signature="1080:1123" placeholder="SELECT id FR..CLIENTS..." />
+            <marker date="1500200082000" expanded="true" signature="1619:1662" placeholder="SELECT id FR..CLIENTS..." />
+            <marker date="1500200082000" expanded="true" signature="1970:2154" placeholder="INSERT INTO ..." />
+            <marker date="1500200082000" expanded="true" signature="2213:2261" placeholder="UPDATE rooms..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="1620">
+          <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+          <folding>
+            <marker date="1500291968000" expanded="true" signature="651:695" placeholder="SELECT id FR..clients..." />
+            <marker date="1500291968000" expanded="true" signature="1001:1054" placeholder="SELECT * FRO..stay_status..." />
+            <marker date="1500291968000" expanded="true" signature="1245:1573" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="1914:2242" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="1914:2906" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="2400:2744" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="2465:2739" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/PaymentUpdateHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500291534000" expanded="true" signature="415:465" placeholder="UPDATE stay_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="615">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <marker date="1499798140000" expanded="true" signature="52:86" placeholder="SELECT * FRO..clients..." />
+            <marker date="1499798140000" expanded="true" signature="52:94" placeholder="SELECT * FRO..clients..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stay_request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1650" max-vertical-offset="2400">
+          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding>
+            <marker date="1500223546000" expanded="true" signature="1362:1381" placeholder="SELECT * FRO..rooms..." />
+            <marker date="1500223546000" expanded="true" signature="1524:1662" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1876" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1937" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1952" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1999" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2150" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2152" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2253" placeholder="SELECT * fro..stay_status..." />
+            <marker date="1500223546000" expanded="true" signature="3419:3588" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3636:3684" placeholder="UPDATE rooms..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4135" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4222" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4313" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4557" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4644" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="6166:6211" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/StayRequestHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1155">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500200082000" expanded="true" signature="602:644" placeholder="SELECT * FRO..clients..." />
+            <marker date="1500200082000" expanded="true" signature="893:968" placeholder="INSERT INTO ..." />
+            <marker date="1500200082000" expanded="true" signature="1080:1123" placeholder="SELECT id FR..CLIENTS..." />
+            <marker date="1500200082000" expanded="true" signature="1619:1662" placeholder="SELECT id FR..CLIENTS..." />
+            <marker date="1500200082000" expanded="true" signature="1970:2154" placeholder="INSERT INTO ..." />
+            <marker date="1500200082000" expanded="true" signature="2213:2261" placeholder="UPDATE rooms..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="537" max-vertical-offset="1500">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="62" selection-end-column="43" />
+          <folding>
+            <marker date="1500291968000" expanded="true" signature="651:695" placeholder="SELECT id FR..clients..." />
+            <marker date="1500291968000" expanded="true" signature="1001:1054" placeholder="SELECT * FRO..stay_status..." />
+            <marker date="1500291968000" expanded="true" signature="1245:1573" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="1914:2242" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="1914:2906" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="2400:2744" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="2465:2739" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="615">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <marker date="1499798140000" expanded="true" signature="52:86" placeholder="SELECT * FRO..clients..." />
+            <marker date="1499798140000" expanded="true" signature="52:94" placeholder="SELECT * FRO..clients..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stay_request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2160">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500223546000" expanded="true" signature="1362:1381" placeholder="SELECT * FRO..rooms..." />
+            <marker date="1500223546000" expanded="true" signature="1524:1662" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1876" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1937" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1952" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1999" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2150" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2152" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2253" placeholder="SELECT * fro..stay_status..." />
+            <marker date="1500223546000" expanded="true" signature="3419:3588" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3636:3684" placeholder="UPDATE rooms..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4135" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4222" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4313" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4557" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4644" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="6166:6211" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="672" max-vertical-offset="1500">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <marker date="1500291968000" expanded="true" signature="651:695" placeholder="SELECT id FR..clients..." />
+            <marker date="1500291968000" expanded="true" signature="1001:1054" placeholder="SELECT * FRO..stay_status..." />
+            <marker date="1500291968000" expanded="true" signature="1245:1573" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="1914:2242" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="1914:2906" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="2400:2744" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="2465:2739" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="615">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <marker date="1499798140000" expanded="true" signature="52:86" placeholder="SELECT * FRO..clients..." />
+            <marker date="1499798140000" expanded="true" signature="52:94" placeholder="SELECT * FRO..clients..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stay_request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1815">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1500223546000" expanded="true" signature="1362:1381" placeholder="SELECT * FRO..rooms..." />
+            <marker date="1500223546000" expanded="true" signature="1524:1662" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1876" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1937" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1952" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1999" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2150" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2152" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2253" placeholder="SELECT * fro..stay_status..." />
+            <marker date="1500223546000" expanded="true" signature="3419:3588" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3636:3684" placeholder="UPDATE rooms..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4135" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4222" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4313" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4557" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4644" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="6166:6211" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/MailHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="615">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1500">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <marker date="1500291968000" expanded="true" signature="651:695" placeholder="SELECT id FR..clients..." />
+            <marker date="1500291968000" expanded="true" signature="1001:1054" placeholder="SELECT * FRO..stay_status..." />
+            <marker date="1500291968000" expanded="true" signature="1245:1573" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="1914:2242" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="1914:2906" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="2400:2744" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="2465:2739" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/PaymentUpdateHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="615">
+          <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="615">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <marker date="1499798140000" expanded="true" signature="52:86" placeholder="SELECT * FRO..clients..." />
+            <marker date="1499798140000" expanded="true" signature="52:94" placeholder="SELECT * FRO..clients..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stay_request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1815">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1500223546000" expanded="true" signature="1362:1381" placeholder="SELECT * FRO..rooms..." />
+            <marker date="1500223546000" expanded="true" signature="1524:1662" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1876" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1937" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1952" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1999" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2150" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2152" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2253" placeholder="SELECT * fro..stay_status..." />
+            <marker date="1500223546000" expanded="true" signature="3419:3588" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3636:3684" placeholder="UPDATE rooms..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4135" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4222" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4313" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4557" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4644" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="6166:6211" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/MailHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="615">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1500">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500291968000" expanded="true" signature="651:695" placeholder="SELECT id FR..clients..." />
+            <marker date="1500291968000" expanded="true" signature="1001:1054" placeholder="SELECT * FRO..stay_status..." />
+            <marker date="1500291968000" expanded="true" signature="1245:1573" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="1914:2242" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="1914:2906" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="2400:2744" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="2465:2739" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/PaymentUpdateHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="615">
+          <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1185">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stay_request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1605">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500223546000" expanded="true" signature="1362:1381" placeholder="SELECT * FRO..rooms..." />
+            <marker date="1500223546000" expanded="true" signature="1524:1662" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1876" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1937" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1952" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1999" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2150" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2152" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2253" placeholder="SELECT * fro..stay_status..." />
+            <marker date="1500223546000" expanded="true" signature="3419:3588" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3636:3684" placeholder="UPDATE rooms..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4135" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4222" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4313" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4557" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4644" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="6166:6211" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="12" max-vertical-offset="630">
+          <caret line="22" column="89" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
+          <folding>
+            <marker date="1499798140000" expanded="true" signature="52:86" placeholder="SELECT * FRO..clients..." />
+            <marker date="1499798140000" expanded="true" signature="52:94" placeholder="SELECT * FRO..clients..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/PaymentUpdateHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="645">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1185">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stay_request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="477" max-vertical-offset="1605">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="52" selection-end-column="83" />
+          <folding>
+            <marker date="1500223546000" expanded="true" signature="1362:1381" placeholder="SELECT * FRO..rooms..." />
+            <marker date="1500223546000" expanded="true" signature="1524:1662" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1876" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1937" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1952" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1999" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2150" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2152" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2253" placeholder="SELECT * fro..stay_status..." />
+            <marker date="1500223546000" expanded="true" signature="3419:3588" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3636:3684" placeholder="UPDATE rooms..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4135" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4222" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4313" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4557" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4644" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="6166:6211" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1185">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stay_request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="477" max-vertical-offset="1605">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="52" selection-end-column="83" />
+          <folding>
+            <marker date="1500223546000" expanded="true" signature="1362:1381" placeholder="SELECT * FRO..rooms..." />
+            <marker date="1500223546000" expanded="true" signature="1524:1662" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1876" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1937" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1952" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1999" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2150" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2152" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2253" placeholder="SELECT * fro..stay_status..." />
+            <marker date="1500223546000" expanded="true" signature="3419:3588" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3636:3684" placeholder="UPDATE rooms..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4135" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4222" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4313" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4557" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4644" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="6166:6211" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1185">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stay_request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1275">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1500223546000" expanded="true" signature="1362:1381" placeholder="SELECT * FRO..rooms..." />
+            <marker date="1500223546000" expanded="true" signature="1524:1662" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1876" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1937" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1952" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1999" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2150" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2152" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2253" placeholder="SELECT * fro..stay_status..." />
+            <marker date="1500223546000" expanded="true" signature="3419:3588" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3636:3684" placeholder="UPDATE rooms..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4135" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4222" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4313" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4557" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4644" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="6166:6211" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84641635" vertical-offset="23639" max-vertical-offset="24225">
+          <caret line="1609" column="9" selection-start-line="1609" selection-start-column="9" selection-end-line="1609" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/MailHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77040815" vertical-offset="27" max-vertical-offset="615">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/ConnectionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25510204" vertical-offset="0" max-vertical-offset="588">
+          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60714287" vertical-offset="573" max-vertical-offset="1185">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stay_request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1335" max-vertical-offset="2400">
+          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding>
+            <marker date="1500223546000" expanded="true" signature="1362:1381" placeholder="SELECT * FRO..rooms..." />
+            <marker date="1500223546000" expanded="true" signature="1524:1662" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1876" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1937" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1952" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="1830:1999" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2150" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2152" placeholder="SELECT * fro..." />
+            <marker date="1500223546000" expanded="true" signature="2139:2253" placeholder="SELECT * fro..stay_status..." />
+            <marker date="1500223546000" expanded="true" signature="3419:3588" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3636:3684" placeholder="UPDATE rooms..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4135" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4222" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="3992:4313" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4557" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="4401:4644" placeholder="..." />
+            <marker date="1500223546000" expanded="true" signature="6166:6211" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="615">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <marker date="1499798140000" expanded="true" signature="52:86" placeholder="SELECT * FRO..clients..." />
+            <marker date="1499798140000" expanded="true" signature="52:94" placeholder="SELECT * FRO..clients..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/StayRequestHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1065" max-vertical-offset="1155">
+          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+          <folding>
+            <marker date="1500200082000" expanded="true" signature="602:644" placeholder="SELECT * FRO..clients..." />
+            <marker date="1500200082000" expanded="true" signature="893:968" placeholder="INSERT INTO ..." />
+            <marker date="1500200082000" expanded="true" signature="1080:1123" placeholder="SELECT id FR..CLIENTS..." />
+            <marker date="1500200082000" expanded="true" signature="1619:1662" placeholder="SELECT id FR..CLIENTS..." />
+            <marker date="1500200082000" expanded="true" signature="1970:2154" placeholder="INSERT INTO ..." />
+            <marker date="1500200082000" expanded="true" signature="2213:2261" placeholder="UPDATE rooms..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="1620">
+          <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+          <folding>
+            <marker date="1500291968000" expanded="true" signature="651:695" placeholder="SELECT id FR..clients..." />
+            <marker date="1500291968000" expanded="true" signature="1001:1054" placeholder="SELECT * FRO..stay_status..." />
+            <marker date="1500291968000" expanded="true" signature="1245:1573" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="1914:2242" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="1914:2906" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="2400:2744" placeholder="..." />
+            <marker date="1500291968000" expanded="true" signature="2465:2739" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/PaymentUpdateHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="495">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <marker date="1500291534000" expanded="true" signature="415:465" placeholder="UPDATE stay_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26020408" vertical-offset="387" max-vertical-offset="1020">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding>
+            <marker date="1499181193000" expanded="true" signature="1036:1055" placeholder="SELECT * FRO..mails..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
